@@ -36,7 +36,7 @@ const shops = [
   {
     id: "BMKChen", // Unique ID for jumping
     name: "Burma Kitchen",
-    image: "static/burma-kitchen.jpg",
+    image: "static/burma-kitchen-chiangmai.jpg",
     fb: "https://web.facebook.com/profile.php?id=61573043474327&locale=th_TH",
     map: "https://maps.app.goo.gl/Ym46HxCousiheTNo7",
   },
