@@ -8,105 +8,105 @@ const shops = [
   {
     id: "ALPyay", // Unique ID for jumping
     name: "Ah Lwan Pyay Tea House",
-    image: "static/Ah Lwan Pyay Tea House.jpg",
+    image: "static/ah-lwan-pyay-tea-house.jpg",
     fb: "https://web.facebook.com/profile.php?id=61554153402334",
     map: "https://maps.app.goo.gl/gBrFnMrcTKQuuA4P8",
   },
   {
     id: "ANHouse", // Unique ID for jumping
     name: "Ah Nyar House - အညာအိမ်",
-    image: "static/Ah Nyar House.jpg",
+    image: "static/ah-nyar-house.jpg",
     fb: "https://web.facebook.com/ahnyarhouse",
     map: "https://maps.app.goo.gl/HXn7EBKVrjPCeUBn7",
   },
   {
     id: "DTT", // Unique ID for jumping
     name: "Blessing of the lord - Daw Toe Toe",
-    image: "static/Blessing of the Lord.jpg",
+    image: "static/blessing-of-the-lord.jpg",
     fb: "https://web.facebook.com/profile.php?id=100094066430433",
     map: "https://maps.app.goo.gl/1rxdbAbwNMdac32g7",
   },
   {
     id: "BiCon", // Unique ID for jumping
     name: "Burma iCon",
-    image: "static/Burma Icon.jpg",
+    image: "static/burma-icon.jpg",
     fb: "https://web.facebook.com/profile.php?id=61559799691098&locale=th_TH",
     map: "https://maps.app.goo.gl/tCteqiEkxgoz1ebi7",
   },
   {
     id: "BMKChen", // Unique ID for jumping
     name: "Burma Kitchen",
-    image: "static/Burma Kitchen Chiangmai.jpg",
+    image: "static/burma-kitchen.jpg",
     fb: "https://web.facebook.com/profile.php?id=61573043474327&locale=th_TH",
     map: "https://maps.app.goo.gl/Ym46HxCousiheTNo7",
   },
   {
     id: "CMKO", // Unique ID for jumping
     name: "CMKO",
-    image: "static/CMKO Kyay Oh.jpg",
+    image: "static/cmko-kyay-oh.jpg",
     fb: "https://web.facebook.com/CMKOchiangmai",
     map: "https://maps.app.goo.gl/iKTi4pArSG6EmvN16",
   },
   {
     id: "EHCnx", // Unique ID for jumping
     name: "Everything Halal CNX",
-    image: "static/Everythin Harlal.jpg",
+    image: "static/everything-halal.jpg",
     fb: "https://web.facebook.com/everythinghalal.cnx",
     map: "https://maps.app.goo.gl/SfTmNRbdJH4NtkRk6",
   },
   {
     id: "FGCmai", // Unique ID for jumping
     name: "Feel Garden Chiang Mai",
-    image: "static/Feel Garden Chiangmai.jpg",
+    image: "static/feel-garden-chiangmai.jpg",
     fb: "https://web.facebook.com/profile.php?id=61579897884813",
     map: "https://maps.app.goo.gl/q3tLKJGFT3tsA2sp6",
   },
   {
     id: "Gatone", // Unique ID for jumping
     name: "Gatone's Teashop",
-    image: "static/Gatone.jpg",
+    image: "static/gatone.jpg",
     fb: "https://web.facebook.com/GatoneBurmeseFoodandTeashop?locale=th_TH",
     map: "https://maps.app.goo.gl/kafrAct5j6VHanZv5",
   },
   {
     id: "Kzone", // Unique ID for jumping
     name: "Karenni Zone - คาเรนนีโซน",
-    image: "static/Karenni Zone.jpg",
+    image: "static/karenni-zone.jpg",
     fb: "https://web.facebook.com/profile.php?id=61566547524893",
     map: "https://maps.app.goo.gl/1Ko1LCz5yWZZcvJb7",
   },
   {
     id: "KKOh", // Unique ID for jumping
     name: "Kaung Kyay Oh",
-    image: "static/Kaung Kyay Oh.jpg",
+    image: "static/kaung-kyay-oh.jpg",
     fb: "https://web.facebook.com/profile.php?id=100063838059511",
     map: "https://maps.app.goo.gl/8ZdQ2Sh9bULSbhdQ8",
   },
   {
     id: "KTYar", // Unique ID for jumping
     name: "Khittayar",
-    image: "static/Khittayar.jpg",
+    image: "static/khittayar.jpg",
     fb: "https://web.facebook.com/profile.php?id=100088644737476&locale=th_TH",
     map: "https://maps.app.goo.gl/uY1GDaMwjmEpK5ZCA",
   },
   {
     id: "MKha", // Unique ID for jumping
     name: "May Kha Restaurant",
-    image: "static/May Kha.jpg",
+    image: "static/may-kha.jpg",
     fb: "https://web.facebook.com/maykharestaurant?locale=th_TH",
     map: "https://maps.app.goo.gl/4MMuHEPnHVud4W1k8",
   },
   {
     id: "MPoint", // Unique ID for jumping
     name: "Meeting Point จุดนัดพบ",
-    image: "static/Meeting Point.jpg",
+    image: "static/meeting-point.jpg",
     fb: "https://web.facebook.com/meetingpoint10925/?rdid=yNxgFi3p5l37bEnk",
     map: "https://maps.app.goo.gl/Bm6Yqrg7Qkv4b62p7",
   },
   {
     id: "MOC", // Unique ID for jumping
     name: "Memories of Chiang Mai",
-    image: "static/Memories of Chiangmai.jpg",
+    image: "static/memories-of-chiangmai.jpg",
     fb: "https://web.facebook.com/MemoriesofCNX?locale=th_TH",
     map: "https://maps.app.goo.gl/VCbmTidwXtwB7VdY7",
   },
