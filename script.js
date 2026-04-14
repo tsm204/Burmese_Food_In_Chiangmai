@@ -113,77 +113,77 @@ const shops = [
   {
     id: "OCTee", // Unique ID for jumping
     name: "Ochatee",
-    image: "static/Ochatee.jpg",
+    image: "static/ochatee.jpg",
     fb: "https://web.facebook.com/profile.php?id=100094438961242&locale=th_TH",
     map: "https://maps.app.goo.gl/sm59vXzNxUTJQR1cA",
   },
   {
     id: "SLay", // Unique ID for jumping
     name: "SHAN LAY",
-    image: "static/Shan Lay.jpg",
+    image: "static/shan-lay.jpg",
     fb: "https://web.facebook.com/shanlayfood/?_rdc=1&_rdr",
     map: "https://maps.app.goo.gl/NcKkb4aDsWnsFotW6",
   },
   {
     id: "SYYKChan", // Unique ID for jumping
     name: "Shan Yoeyar Kitchen",
-    image: "static/Shan Yoeyar Kitchen.jpg",
+    image: "static/shan-yoeyar-kitchen.jpg",
     fb: "https://web.facebook.com/profile.php?id=61581711013035",
     map: "https://maps.app.goo.gl/k4DQBEH5FYQLYGJdA",
   },
   {
     id: "SBite", // Unique ID for jumping
     name: "Shwe Bite",
-    image: "static/Shwe Bite.jpg",
+    image: "static/shwe-bite.jpg",
     fb: "https://web.facebook.com/shwebitecnx?locale=th_TH",
     map: "https://maps.app.goo.gl/Uveyr2FHcesd3DjK6",
   },
   {
     id: "TMaing", // Unique ID for jumping
     name: "Thamaing Evening Fried Rice",
-    image: "static/Thamaing.jpg",
+    image: "static/thamaing.jpg",
     fb: "https://web.facebook.com/profile.php?id=61581532874376",
     map: "https://maps.app.goo.gl/39pzJfQuD9BDZzck6",
   },
   {
     id: "TBest", // Unique ID for jumping
     name: "The Best Burmese Restaurant",
-    image: "static/The Best Burmese Restaurant.jpg",
+    image: "static/the-best-burmese-restaurant.jpg",
     fb: "https://web.facebook.com/profile.php?id=61575500531798&locale=th_TH",
     map: "https://maps.app.goo.gl/Ubpm3GHBRYRJeUpN7",
   },
   {
     id: "TExile", // Unique ID for jumping
     name: "The Exile",
-    image: "static/Exile.jpg",
+    image: "static/exile.jpg",
     fb: "https://web.facebook.com/theexilebkk",
     map: "https://maps.app.goo.gl/D2irunAPLq97xMod7",
   },
   {
     id: "WAain", // Unique ID for jumping
     name: "Warr Aain",
-    image: "static/Warr Aain.jpg",
+    image: "static/warr-aain.jpg",
     fb: "https://web.facebook.com/profile.php?id=61578240590967&locale=th_TH",
     map: "https://maps.app.goo.gl/ySVwrd6m1ApbRKM46",
   },
   {
     id: "WHill", // Unique ID for jumping
     name: "Windy Hill - လေထန်ကုန်း",
-    image: "static/Windy Hill.jpg",
+    image: "static/windy-hill.jpg",
     fb: "https://web.facebook.com/profile.php?id=61575315136492&locale=th_TH",
     map: "https://maps.app.goo.gl/WgStwLMBjemACioDA",
   },
   {
     id: "ZMThu", // Unique ID for jumping
     name: "Zin Mal Thu - ဇင်းမယ်သူ",
-    image: "static/Zin Mal Thu.jpg",
+    image: "static/zin-mal-thu.jpg",
     fb: "https://web.facebook.com/profile.php?id=61559724307301",
     map: "https://maps.app.goo.gl/bUAncbXDku7grQWz7",
   },
   {
     id: "ZMTHouse", // Unique ID for jumping
     name: "Zinmè Tea House(ဇင်းမယ်တီးဟောက်စ်) Sang Ga Dee",
-    image: "static/Zinmè Tea House.png",
+    image: "static/zinme-tea-house.png",
     fb: "https://web.facebook.com/profile.php?id=61559724307301",
     map: "https://maps.app.goo.gl/EVMuVVaDcHpzuQkNA",
   },
