@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <!-- HEAD SESSION______________________________________________________________________ -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Burmese Food in Chiangmai</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/png" href="static/favicon.png" />
+  </head>
+
+  <!-- BODY SESSION_______________________________________________________________________ -->
+  <body>
+    <!-- Navigation Bar Session -->
+    <nav class="navbar">
+      <!-- Logo session -->
+      <div class="logo-container">
+        <a href="#" class="logo-link">
+          <img src="static/Logo.png" alt="Logo" class="logo-img" />
+          <h1 class="nav-title" style="color: aliceblue">
+            Burmese Food in Chiangmai
+          </h1>
+        </a>
+      </div>
+
+      <!-- Search box -->
+      <div class="search-wrapper" id="searchWrapper">
+        <input
+          type="text"
+          id="shop-search"
+          placeholder="Search shops..."
+          aria-label="Search"
+        />
+        <button class="search-trigger" id="searchBtn" title="Search">
+          <i class="fas fa-search"></i>
+        </button>
+      </div>
+
+      <!-- Shop list and about me -->
+      <ul class="nav-links">
+        <li class="dropdown">
+          <a href="#shop-list" class="dropbtn" style="color: aliceblue">
+            <strong>Shop List</strong> <i class="fas fa-chevron-down"></i>
+          </a>
+          <ul id="dropdown-menu" class="dropdown-content"></ul>
+        </li>
+        <li>
+          <a href="#about" style="color: aliceblue"
+            ><strong>About Me</strong></a
+          >
+        </li>
+      </ul>
+    </nav>
+
+    <!-- ______________________________________________________________________________________ -->
+    <header id="hero" class="hero">
+      <h1 style="color: aliceblue">Hello! Burmese Food Lovers in Chiangmai</h1>
+      <p>
+        Here is a collection of the best flavors from Myanmar in this beautiful
+        city called Chiangmai.
+      </p>
+    </header>
+
+    <!-- Explore________________________________________________________________________________ -->
+    <section id="shop-list" class="container">
+      <h2 class="section-title">Explore Shops</h2>
+      <div id="grid-container" class="shop-grid"></div>
+    </section>
+
+    <!-- Feedback________________________________________________________________________________ -->
+    <button
+      id="feedbackBtn"
+      class="feedback-floating-btn"
+      title="Give Feedback"
+    >
+      <i class="fas fa-comment-dots"></i>
+    </button>
+
+    <div id="feedbackModal" class="modal">
+      <div class="modal-content">
+        <span class="close-modal">&times;</span>
+        <h3>Send Feedback</h3>
+
+        <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLSdHC94mRwBY8mF-8N6vW5HekXthMp4QP1_p5xOWsyiUtH-KCw/viewform?embedded=true"
+          width="100%"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+          style="height: 80vh"
+        >
+          Loading…
+        </iframe>
+      </div>
+    </div>
+
+    <!-- About Me_______________________________________________________________________________ -->
+
+    <section id="about" class="container about-section">
+      <h2 style="color: aliceblue">About Me</h2>
+      <br />
+      <p>
+        "Hi, I’m a burmese food enthusiast. Whether you're looking for the
+        perfect tea leaf salad or a comforting bowl of Mohinga, <br />this
+        directory is here to guide your next meal."
+      </p>
+    </section>
+
+    <script src="script.js"></script>
+  </body>
+</html>
