@@ -12,6 +12,7 @@
   --card-border: #142e18; /* Border color for elements */
   --navbar-bg: #003049; /* Semi-transparent navbar background */
   --navtext: #f0f2f5; /* Navbar text color */
+  --shop-card-bg: #ecc16a; /* Shop card background color */
 }
 
 /* ==========================================================================
@@ -224,7 +225,7 @@ body {
 
 .shop-content {
   padding: 1.5rem;
-  background-color: #fcbf49; /* Golden Yellow background */
+  background-color: var(--shop-card-bg); /* Golden Yellow background */
   border-top: 1px solid var(--card-border);
 }
 
