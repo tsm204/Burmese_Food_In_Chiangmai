@@ -6,6 +6,13 @@
  */
 const shops = [
   {
+    id: "34meeshay", // Unique ID for jumping
+    name: "34 Meeshay Noodle",
+    image: "static/34_meeshay.jpg",
+    fb: "https://www.facebook.com/profile.php?id=61577777491175",
+    map: "https://maps.app.goo.gl/FBWQ22btrpG2Bjvi6",
+  },
+  {
     id: "ALPyay", // Unique ID for jumping
     name: "Ah Lwan Pyay Tea House",
     image: "static/ah-lwan-pyay-tea-house.jpg",
@@ -18,6 +25,27 @@ const shops = [
     image: "static/ah-nyar-house.jpg",
     fb: "https://web.facebook.com/ahnyarhouse",
     map: "https://maps.app.goo.gl/HXn7EBKVrjPCeUBn7",
+  },
+  {
+    id: "AMMo", // Unique ID for jumping
+    name: "Aung Myint Mo CNX",
+    image: "static/aung_myint_mo.jpg",
+    fb: "https://www.facebook.com/ammcnx",
+    map: "https://maps.app.goo.gl/iAHJ6hZBMzWXBjti8",
+  },
+  {
+    id: "Aung", // Unique ID for jumping
+    name: "AUNG Restaurant and Bar",
+    image: "static/aung_myint_mo.jpg",
+    fb: "https://www.facebook.com/aungrestaurantandbar",
+    map: "https://maps.app.goo.gl/mgYLpWjtJFvdhSTZA",
+  },
+  {
+    id: "Bthoon", // Unique ID for jumping
+    name: "Baby Thoon",
+    image: "static/baby_thoon.jpg",
+    fb: "https://www.facebook.com/BabyThoonBurmeseFoodnSnack",
+    map: "https://maps.app.goo.gl/GyUcUDP6MRjtto8Q7",
   },
   {
     id: "DTT", // Unique ID for jumping
@@ -46,6 +74,13 @@ const shops = [
     image: "static/cmko-kyay-oh.jpg",
     fb: "https://web.facebook.com/CMKOchiangmai",
     map: "https://maps.app.goo.gl/iKTi4pArSG6EmvN16",
+  },
+  {
+    id: "Dnoodles", // Unique ID for jumping
+    name: "D-noodles",
+    image: "static/d_noodles.jpg",
+    fb: "https://www.facebook.com/profile.php?id=61553854631055",
+    map: "https://maps.app.goo.gl/ZjnFXomainqaxjSH6",
   },
   {
     id: "EHCnx", // Unique ID for jumping
@@ -88,6 +123,13 @@ const shops = [
     image: "static/khittayar.jpg",
     fb: "https://web.facebook.com/profile.php?id=100088644737476&locale=th_TH",
     map: "https://maps.app.goo.gl/uY1GDaMwjmEpK5ZCA",
+  },
+  {
+    id: "Lwave", // Unique ID for jumping
+    name: "Little Wave",
+    image: "static/little_wave.png",
+    fb: "https://www.facebook.com/profile.php?id=61585403967169",
+    map: "https://maps.app.goo.gl/Y7Hg2S3X3HWMLdyq6",
   },
   {
     id: "MKha", // Unique ID for jumping
@@ -137,6 +179,13 @@ const shops = [
     image: "static/shwe-bite.jpg",
     fb: "https://web.facebook.com/shwebitecnx?locale=th_TH",
     map: "https://maps.app.goo.gl/Uveyr2FHcesd3DjK6",
+  },
+  {
+    id: "Splates", // Unique ID for jumping
+    name: "Sixteen Plates",
+    image: "static/sixteen_plates.jpg",
+    fb: "https://www.facebook.com/profile.php?id=61582454968728",
+    map: "https://maps.app.goo.gl/LApUTRXCJ31YWwTT7",
   },
   {
     id: "TMaing", // Unique ID for jumping
